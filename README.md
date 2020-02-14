@@ -1,3 +1,5 @@
+Terraform project based in https://aws.amazon.com/es/blogs/startups/from-zero-to-eks-with-terraform-and-helm/
+
 ## Requirements ##
 
 * Terraform v0.12 or higher
